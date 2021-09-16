@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fu-jingqi
-- 👀 I’m interested in c++ , html , basketball and so on.
-- 🌱 I’m currently learning git
+- 👀 I’m interested in code , basketball and so on.
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
