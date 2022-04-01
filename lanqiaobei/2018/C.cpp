@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
-
 using namespace std;
+
+int n , m;
 int main(){
-    cout << INT_MIN <<endl ;
-    return 0 ;
+
 }
