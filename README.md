@@ -78,7 +78,7 @@
 
 <h3> 👨🏻‍💻 Contact Me </h3>
 
-[MY BOLG](https://www.cnblogs.com/fjqqq)
+[MY BOLG](https://fu-jingqi.github.io/)
 
 [MY QQMail](1070673506@qq.com)
 
